@@ -1,0 +1,26 @@
+
+     
+    
+      nz-header img
+      {
+        width: 60px;
+        height: 60px;
+      }
+      nz-header{
+        font-size: 35px;
+        color: rgb(206, 221, 235);
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      }
+      nz-header button{
+        color:rgb(90, 95, 95);
+        width: 90px;
+      }
+         
+       .menuu{
+           margin-left: 450px;
+           font-size: 20px;
+       }
+       .menu1{
+        margin-left: 100px;
+        font-size: 20px;
+       } 
